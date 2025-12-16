@@ -1,15 +1,13 @@
 # PhishGuard
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/devbyaadi/PhishGuard?style=social)](https://github.com/devbyaadi/PhishGuard/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/devbyaadi/PhishGuard?style=social)](https://github.com/devbyaadi/PhishGuard/network)
-[![License](https://img.shields.io/github/license/devbyaadi/PhishGuard)](https://github.com/devbyaadi/PhishGuard/blob/main/LICENSE)
+
 
 **PhishGuard ** is a cutting-edge **AI-powered phishing detection and cybersecurity platform** designed to protect users from malicious websites, emails, and social engineering attacks. Built with **React, Vite, and Tailwind CSS**, it offers an interactive, modern, and user-friendly interface.  
 
 ---
 
 ##  Live Demo
-[Click here to visit the live site](https://phishguard-lilac.vercel.app/)
+[Click here to visit the live site](https://phishiguardai.netlify.app/)
 
 ---
 
@@ -119,8 +117,3 @@ Color	Usage
 --background	Navbar & cards
 --border	Subtle borders
 ```
-
-## Contact
-
-- **GitHub:** [devbyaadi](https://github.com/devbyaadi)  
-- **LinkedIn:** [Aaditya Narayan](https://www.linkedin.com/in/aadityanarayann/)
