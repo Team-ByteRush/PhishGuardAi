@@ -2,7 +2,7 @@
 
 
 
-**PhishGuard ** is a cutting-edge **AI-powered phishing detection and cybersecurity platform** designed to protect users from malicious websites, emails, and social engineering attacks. Built with **React, Vite, and Tailwind CSS**, it offers an interactive, modern, and user-friendly interface.  
+PhishGuard  is a cutting-edge **AI-powered phishing detection and cybersecurity platform** designed to protect users from malicious websites, emails, and social engineering attacks. Built with **React, Vite, and Tailwind CSS**, it offers an interactive, modern, and user-friendly interface.  
 
 ---
 
